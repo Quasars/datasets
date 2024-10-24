@@ -28,7 +28,7 @@
         "homo-sapiens",
         "blood"
       ],
-      "title": "testing datasets on different server",
+      "title": "Collagen dataset for testing the widget on GitHub",
       "references": [
         "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
       ],

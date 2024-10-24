@@ -2,7 +2,7 @@
   [
     [
       "spectroscopy",
-      "DC_expMatrix_DCnMono.tab.gz"
+      "collagen.csv"
     ],
     {
       "name": "collagen.csv",
@@ -13,13 +13,13 @@
       "instances": 1140,
       "missing": 0,
       "variables": 26595,
-      "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
-      "url": "https://datasets.biolab.si/files\n/sc/DC_expMatrix_DCnMono.tab.gz",
+      "source": "",
+      "url": "https://raw.githubusercontent.com/Quasars/datasets/refs/heads/master/spectroscopy/collagen.csv",
       "domain": "spectroscopy",
       "language": "English",
       "target": "categorical",
       "location": "collagen.csv",
-      "size": 20325076,
+      "size": 1034486,
       "publication_status": 0,
       "tag": "expression",
       "tags": [

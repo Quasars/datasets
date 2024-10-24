@@ -1,0 +1,39 @@
+[
+  [
+    [
+      "spectroscopy",
+      "DC_expMatrix_DCnMono.tab.gz"
+    ],
+    {
+      "name": "collagen.csv",
+      "description": "",
+      "collection": "",
+      "version": "",
+      "year": 2017,
+      "instances": 1140,
+      "missing": 0,
+      "variables": 26595,
+      "source": "<a href='https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE94820'>NCBI</a>",
+      "url": "https://datasets.biolab.si/files\n/sc/DC_expMatrix_DCnMono.tab.gz",
+      "domain": "spectroscopy",
+      "language": "English",
+      "target": "categorical",
+      "location": "collagen.csv",
+      "size": 20325076,
+      "publication_status": 0,
+      "tag": "expression",
+      "tags": [
+        "expression",
+        "human",
+        "homo-sapiens",
+        "blood"
+      ],
+      "title": "testing datasets on different server",
+      "references": [
+        "Villani, A. C., Satija, ... Jardine, L. (2017). <a href='http://science.sciencemag.org/content/356/6335/eaah4573'> Single-cell RNA-seq reveals new types of human blood dendritic cells, monocytes, and progenitors. </a> Science, 356(6335)."
+      ],
+      "taxid": 9606,
+      "num_of_genes": 26593
+    }
+  ],
+]
